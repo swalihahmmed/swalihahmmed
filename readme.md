@@ -21,7 +21,7 @@
 ---
 
 ### 🔹 Projects  
-- 📊 **SEZ Exports & India's GDP (Time Series Analysis)** – [(https://github.com/swalihahmmed/Capstone-Project)] 
+- 📊 **SEZ Exports & India's GDP (Time Series Analysis)** – [View](https://github.com/swalihahmmed/Capstone-Project)] 
 - 📈 **Reliance Industries Stock Analysis** – [View Repo](#)  
 
 
